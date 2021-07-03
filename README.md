@@ -51,6 +51,7 @@ Visual Perception for Autonomous Driving](http://www.cs.toronto.edu/~urtasun/cou
 * [[UCSD] - MAE/ECE148 Introduction to Autonomous Vehicles](https://guitar.ucsd.edu/maeece148/index.php/Introduction_to_Autonomous_Vehicles) - A hands-on, project-based course using DonkeyCar with lane-tracking functionality and various advanced topics such as object detection, navigation, etc.
 * [[MIT] 2.166 Duckietown](http://duckietown.mit.edu/index.html) - Class about the science of autonomy at the graduate level. This is a hands-on, project-focused course focusing on self-driving vehicles and high-level autonomy. The problem: **Design the Autonomous Robo-Taxis System for the City of Duckietown.**
 * [[Coursera] Self-Driving Cars](https://www.coursera.org/specializations/self-driving-cars#about) - A 4 course specialization about Self-Driving Cars by the University of Toronto. Covering all the way from the Introduction, State Estimation & Localization, Visual Perception, Motion Planning.
+* [Intellipaat Machine Learning Certification](https://intellipaat.com/machine-learning-certification-training-course/)- You will Master skills such as Python, ML algorithms, statistics, supervised and unsupervised learning, etc.
 
 ## Papers
 By Topic Areas and Year of Publication / Submission
